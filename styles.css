@@ -194,8 +194,12 @@ a {
   display: block;
   width: 44px;
   height: 44px;
-  border-radius: 13px;
-  box-shadow: 0 8px 18px rgba(11, 18, 32, 0.22);
+  object-fit: contain;
+  padding: 5px;
+  border-radius: 11px;
+  background: #ffffff;
+  border: 1px solid var(--line);
+  box-shadow: 0 2px 6px rgba(17, 17, 17, 0.10);
 }
 
 .brand-copy {
