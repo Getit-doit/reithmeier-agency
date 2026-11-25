@@ -17,11 +17,10 @@ Contact email: **Info@reithmeieragency.com**
 
 ## ⚠️ Placeholders to replace before going live
 
-1. **Phone number** — currently `000-000-0000` / `tel:+10000000000` throughout (nav, hero, SMS opt-in, footer). Replace with the agency's real SMS-capable number.
-2. **Quote form** — `quote.html` has a dashed placeholder panel where the form embed goes. Drop in the Reithmeier Agency form `<iframe>` (e.g. Jotform). The SMS consent checkbox language is already written.
-3. **Custom domain** — no `CNAME` is set, so the site serves at the default GitHub Pages URL. Add a `CNAME` file with the domain (e.g. `www.reithmeieragency.com`) once DNS is pointed.
+1. **Quote form** — `quote.html` has a dashed placeholder panel where the form embed goes. Drop in the Reithmeier Agency form `<iframe>` (e.g. Jotform). The SMS consent checkbox language is already written.
+2. **Custom domain** — no `CNAME` is set, so the site serves at the default GitHub Pages URL. Add a `CNAME` file with the domain (e.g. `www.reithmeieragency.com`) once DNS is pointed.
 
-The agency logo (`logo.png`) and favicon (`favicon.png`) are the real Reithmeier Agency "R" mark.
+Set: the agency logo (`logo.png`) and favicon (`favicon.png`) are the real Reithmeier Agency "R" mark, and the contact number is **940-323-4303** (email **Info@reithmeieragency.com**).
 
 ## Run locally
 
