@@ -13,14 +13,14 @@ A clean, professional **black & white** static website for **Reithmeier Agency L
 | `sms-opt-in.html` | SMS Opt-In & Call-to-Action (CTA + sample messages for carrier review) |
 | `help.html` | Help & Support (STOP/HELP, contact) |
 
-Contact email: **Info@reithmeieragency.com**
+Contact email: **Info@reithmeieragency.org**
 
 ## ⚠️ Placeholders to replace before going live
 
 1. **Quote form** — `quote.html` has a dashed placeholder panel where the form embed goes. Drop in the Reithmeier Agency form `<iframe>` (e.g. Jotform). The SMS consent checkbox language is already written.
-2. **Custom domain** — no `CNAME` is set, so the site serves at the default GitHub Pages URL. Add a `CNAME` file with the domain (e.g. `www.reithmeieragency.com`) once DNS is pointed.
+2. **Custom domain** — no `CNAME` is set, so the site serves at the default GitHub Pages URL. Add a `CNAME` file with the domain (e.g. `www.reithmeieragency.org`) once DNS is pointed.
 
-Set: the agency logo (`logo.png`) and favicon (`favicon.png`) are the real Reithmeier Agency "R" mark, and the contact number is **940-323-4303** (email **Info@reithmeieragency.com**).
+Set: the agency logo (`logo.png`) and favicon (`favicon.png`) are the real Reithmeier Agency "R" mark, and the contact number is **940-323-4303** (email **Info@reithmeieragency.org**).
 
 ## Run locally
 
